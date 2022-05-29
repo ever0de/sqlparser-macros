@@ -1,1 +1,1 @@
-# lazy-sqlparser-rs
+# lazy-sqlparser
